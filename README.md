@@ -15,8 +15,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://hafidzndp.co
-[youtube]: https://youtube.com/hafidzndp
+[website]: https://hafidzndp.com
+[youtube]: https://www.youtube.com/channel/UCrxMgzTensPScUW0PrRM9HA
 [instagram]: https://instagram.com/hafidzndp
 [linkedin]: https://linkedin.com/in/hafidzndp
 [Kaggle]:https://www.kaggle.com/hafidzjnp
